@@ -1,0 +1,14 @@
+## Interface: 11200
+## Title: MinimapButtonBag 
+## Notes: Reduces minimap buttons and makes them accessible through a menu!
+## Notes-deDE: Reduziert die Minimap Knöpfe und erlaubt den Zugriff auf diese über ein Menü!
+## Notes-ruRU: Компонует иконки аддонов на миникарте в одну.
+## Version: 0.508
+## Author: Tunhadil, LaYt - continue
+## SavedVariablesPerCharacter: MBB_Exclude, MBB_Options
+
+Locale\Localization-enGB.lua
+Locale\Localization-deDE.lua
+Locale\Localization-ruRU.lua
+
+MBB.xml
